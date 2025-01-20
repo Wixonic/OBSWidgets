@@ -1,4 +1,4 @@
-[![Wakatime](https://wakatime.com/badge/github/Wixonic/OBSWidgets.svg?style=flat)](https://wakatime.com/badge/github/Wixonic/OBSWidgets)
+[![Wakatime](https://wakatime.com/badge/github/Wixonic/OBSWidgets.svg?style=flat)](https://wakatime.com/badge/github/Wixonic/OBSWidgets) [![Patreon](https://img.shields.io/badge/Patreon-black?style=flat&logo=patreon)](https://patreon.com/Wixonic)
 
 - [Support](https://github.com/Wixonic/OBSWidgets/blob/Default/.github/SUPPORT.md)
 - [Code of Conduct](https://github.com/Wixonic/OBSWidgets/blob/Default/.github/CODE_OF_CONDUCT.md)
